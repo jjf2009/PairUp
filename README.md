@@ -1,2 +1,2 @@
-# PairUp
-real-time collaborative interview / pair-programming platform
+3. PairUp — real-time collaborative interview / pair-programming platform (High — flagship)
+Synced code editor, video, real sandboxed code execution, and an AI-generated feedback report — built specifically for practicing mock interviews with a friend instead of cobbling together Zoom and a pastebin. This is a system-design interview question, actually shipped, and the origin story is authentic: you built it to prep for your own interviews. Forces: CRDTs (Yjs), WebRTC, a real job-queue-backed execution engine, and — since people will actually use it live — real UI/UX effort, which is your stated weak spot.
